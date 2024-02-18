@@ -1,3 +1,5 @@
+Video example: https://www.youtube.com/watch?v=QS7NeoWEM18
+
 The files here are for the backend java side. Remember to download mysql-connector.jar file and put it inside the classpath when building Java Build path. My connector is "mysql-connector-j-8.3.0.jar", I used Eclipse IDE for this.
 
 For MySQL, first create employee_data schema, then create employee_details table:
